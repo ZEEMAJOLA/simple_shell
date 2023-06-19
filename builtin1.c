@@ -4,7 +4,7 @@
  * _myhistory - displays a prompt each time a command has been executed
  * command line must be one word
  * a command line always ends with a new line
- *   
+ *
  *  Return: error if executable file is not found and display the prompt again
  */
 int _myhistory(info_t *info)
